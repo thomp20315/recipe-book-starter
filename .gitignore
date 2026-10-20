@@ -1,0 +1,25 @@
+# secrets / local-only
+.env
+.env.*
+*.key
+*.pem
+secrets/
+config.local.json
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# bot scratch / private data (never commit)
+backups/
+photo_fix/
+shots/
+screenshots/
+tmp/
+*.log
+# shopping/cart scratch files the bot writes while working
+result*.json
+!shopping_result.example.json
+added*.json
+failed*.json
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "_comment": "SAMPLE ONLY - shows the shape of one entry in recipes.json. Not loaded by the app. recipes.json is a JSON array of these.",
+  "id": "sample-sheet-pan-veggies",
+  "title": "Sample Sheet-Pan Veggies",
+  "description": "A placeholder recipe that shows every field the app understands.",
+  "servings": "4",
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "totalTime": "35 min",
+  "image": "images/sample-sheet-pan-veggies.jpg",
+  "source": "https://example.com/sample-recipe",
+  "sourceName": "Example Recipes",
+  "sourcePost": null,
+  "addedBy": "Mom",
+  "added": "2026-01-01T12:00:00.000Z",
+  "tags": ["Dinner", "Sides"],
+  "ingredients": ["2 cups broccoli florets", "1 sweet potato, cubed", "2 tbsp olive oil", "1 tsp salt"],
+  "steps": ["Heat the oven to 425°F.", "Toss everything on a sheet pan.", "Roast 25 minutes, stirring once."]
+}

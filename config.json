@@ -1,0 +1,22 @@
+{
+  "_readme": "Edit this file, then run: python3 build.py. Everything personal to your family lives here. See README.md step 3.",
+  "family_name": "Our Family",
+  "app_name": "Recipe Book",
+  "short_name": "Recipes",
+  "supabase_url": "https://YOUR-PROJECT-REF.supabase.co",
+  "supabase_publishable_key": "YOUR-SUPABASE-PUBLISHABLE-KEY",
+  "raters": [
+    {"id": "p1", "label": "Mom"},
+    {"id": "p2", "label": "Dad"},
+    {"id": "p3", "label": "Kids"}
+  ],
+  "home_zip": "",
+  "stores": [
+    {"id": "store1", "name": "Your first grocery store", "cart_url": "https://www.example.com/cart"},
+    {"id": "store2", "name": "Your second grocery store", "cart_url": ""}
+  ],
+  "store_name_words_to_hide": ["Supercenter", "Farmers Market"],
+  "tags": ["Breakfast", "Lunch", "Dinner", "Sides", "Soup", "Snacks", "Appetizers", "Dips", "Sauces",
+           "Desserts", "Kids", "Crockpot Meals", "Bread/Sourdough", "Holiday Ideas", "Coffee", "Cocktails", "Juice"],
+  "theme_color": "#faf8f5"
+}
